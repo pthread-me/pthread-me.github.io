@@ -1,2 +1,2 @@
 # pthread-me.github.io
-pages
+/CDS-Notes for Compact DS notes
