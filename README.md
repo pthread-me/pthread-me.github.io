@@ -1,2 +1,2 @@
 # pthread-me.github.io
-/CDS-Notes for Compact DS notes
+    - [CDS-Notes](https://pthread-me.github.io/CDS-Notes/) for Compact DS notes
