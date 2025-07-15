@@ -1,0 +1,8 @@
+[book]
+authors = ["pthread-me"]
+language = "en"
+src = "src"
+title = "Algorithms II"
+
+[preprocessor.katex]
+after = ["links"]
